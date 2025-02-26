@@ -1,0 +1,10 @@
+ @import "tailwindcss";
+
+ @font-face {
+  font-family: spotify;
+  src: url("./assets/circular-std-medium-500.ttf");
+ }
+ body{
+  font-family: spotify;
+  /* font-weight: 100 ; */
+ }
